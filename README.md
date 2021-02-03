@@ -6,6 +6,8 @@ Nombre del Equipo: Patrociname
 
 Miembros del Equipo:
 
+Nicolas Carvajal
+
 Javier Andres Ramirez Silva
 
 JuanPablo Barriga Alvarez
