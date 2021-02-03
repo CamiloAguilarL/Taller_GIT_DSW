@@ -6,5 +6,8 @@ Nombre del Equipo: Patrociname
 
 Miembros del Equipo:
 
+Andres Felipe Garcia Bernal
+
 Nicolas Orjuela
+
 Camilo Aguilar Leon
