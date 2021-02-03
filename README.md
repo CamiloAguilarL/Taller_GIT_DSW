@@ -6,6 +6,8 @@ Nombre del Equipo: Patrociname
 
 Miembros del Equipo:
 
+JuanPablo Barriga Alvarez
+
 Andres Felipe Garcia Bernal
 
 Nicolas Orjuela
